@@ -6,13 +6,13 @@ We integrate open-source software for you to pay less in long-term and own your 
 We believe that p2p services based on open-source is better, than unfair-priced SaaS products within shared economy.
 ## Comparison
 
-|                      | SaaS                                                                                                                                      | 0x0                                                              |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Plan                 | hard-coded options                                                                                                                        | market-driven                                                    |
-| Roadmap              | no                                                                                                                                        | you decide and free to fork                                      |
-| Dedicated            | expensive enterprise plan, still no promises                                                                                              | dedicated by default                                             |
-| Billing              | separate different bills and cycles                                                                                                       | single check                                                     |
-| What your paying for | all features (including not needed future), rent hardware (for that "free-plan" guy as well), all staff (including theirs marketing team) | features you want, your hardware (buy or rent), dedicated people |
+|                      | SaaS                                                                                                                                      | 0x0                                                                               |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| Plan                 | hard-coded options, sometimes you pay "per human" even if they're inactive                                                                | you decide: market-driven for services, sufficient for hardware resources         |
+| Roadmap              | they decide                                                                                                                               | you decide and free to fork                                                       |
+| Dedicated features   | expensive enterprise plan, still no promises                                                                                              | bid for your wish on a free market                                                |
+| Billing              | separate different bills and cycles                                                                                                       | single check                                                                      |
+| What your paying for | all features (including not needed future), rent hardware (for that "free-plan" guy as well), all staff (including theirs marketing team) | your hardware (buy or rent), market-driven for price additional (custom) services |
 
 ## Onboarding
 
