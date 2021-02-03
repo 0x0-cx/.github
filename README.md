@@ -4,6 +4,11 @@ We integrate open-source software for you to pay less in long-term and own your 
 ## Mission
 
 We believe that p2p services based on open-source is better, than unfair-priced SaaS products within shared economy.
+
+Imagine your Uber taxi stops, catches another person, makes a detour and only then finishes the ride.
+Or AirBnB decides that a stranger will live in the place you're renting, because it's "optimal".
+
+Digital SaaS companies make this every single day.
 ## Comparison
 
 |                      | SaaS                                                                                                                                      | 0x0                                                                               |
