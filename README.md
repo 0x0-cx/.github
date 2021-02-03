@@ -15,15 +15,15 @@ and own your data.
 | Code                   | GitHub                    | GitLab          | code-only clone, no export PR, stars, community                                                                |
 | Kanban                 | Trello                    | Wekan           | copy-paste, no export images/attachments                                                                       |
 | Chat                   | Slack                     | Mattermost      | export not welcome                                                                                             |
-| Enterprise Integration | Slack apps, OAuth         | ?               | incoming webhooks, custom (mostly chat bots); allow leave markdown-based message; LDAP/SAML mostly enterprise; |
-| Text collab            | Gdocs, Office365          | Etherpad(-lite) | txt, docx; no export history, acl                                                                              |
-| Spreadsheets           | Gsheets, Office365        | Luckysheet      | csv, xlsx; no export history, acl                                                                              |
-| Mail                   | Gmail, Outlook365, Proton | Mailinabox      | export not welcome                                                                                             |
-| Shared storage         | Gdrive, Dropbox, box.com, | Syncthing       | export is essential feature                                                                                    |
-| Social media           | Twitter                   | Mastodon        | TODO                                                                                                           |
-| Personal integration   | IFTTT, Zappier            | Huginn          | TODO                                                                                                           |
 | Voice/Video chat       | Gmeet, Zoom               | Jitsi Meet      | nothing to export? no recordings?                                                                              |
-
+| Shared storage         | Gdrive, Dropbox, box.com, | Syncthing       | export is essential feature                                                                                    |
+| Enterprise Integration | Slack apps, OAuth         | ?               | incoming webhooks, custom (mostly chat bots); allow leave markdown-based message; LDAP/SAML mostly enterprise; |
+| Personal integration   | IFTTT, Zappier            | Huginn          | TODO                                                                                                           |
+| Office "bundle"        | Gsuite, Office365         | Onlyoffice      | export not welcome                                                                                             |
+| Text collab            | Gdocs                     | Etherpad(-lite) | txt, docx; no export history, acl                                                                              |
+| Spreadsheets           | Gsheets                   | Luckysheet      | csv, xlsx; no export history, acl                                                                              |
+| Mail                   | Gmail, Outlook, Proton    | Mailinabox      | export not welcome                                                                                             |
+| Social media           | Twitter                   | Mastodon        | TODO                                                                                                           |
 ## If my team won't like it, can I migrate back to GitHub/Trello/Slack?
 
 Yes, we are _aginst any vendor-lock_ (if target-saas is welcoming digital nomads)
