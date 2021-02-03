@@ -35,3 +35,11 @@ Yes, because you own your data and free to move it anywhere else, anytime.
 ## Should I run a server/vps?
 
 Yes, but we're thinking towards a federated solution w/o a central server.
+
+## Motivation parallel
+
+|               | Saas | Oss            |
+|---------------|------|----------------|
+| Inheritance   | No   | Fork           |
+| Incapsulation | API  | Protocol       |
+| Polymorphism  | ?    | Standards, RFC |
