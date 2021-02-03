@@ -1,8 +1,20 @@
 # 0x0
 
-We connect the best open-source software
-to give you best experience when using them all together
-and own your data.
+We integrate open-source software for you to pay less in long-term and own your data.
+## Mission
+
+We believe that p2p services based on open-source is better, than unfair-priced SaaS products within shared economy.
+## Comparison
+
+|                      | SaaS                                                                                                                                      | 0x0                                                              |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Plan                 | hard-coded options                                                                                                                        | market-driven                                                    |
+| Roadmap              | no                                                                                                                                        | you decide                                                       |
+| Dedicated            | expensive enterprise plan, still no promises                                                                                              | dedicated by default                                             |
+| Billing              | separate different bills and cycles                                                                                                       | single check                                                     |
+| What your paying for | all features (including not needed future), rent hardware (for that "free-plan" guy as well), all staff (including theirs marketing team) | features you want, your hardware (buy or rent), dedicated people |
+
+## Onboarding
 
 - install with a single command (on-premise too!)
 - transfer your data
