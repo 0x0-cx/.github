@@ -9,6 +9,9 @@ Imagine your Uber taxi stops, catches another person, makes a detour and only th
 Or AirBnB decides that a stranger will live in the place you're renting, because it's "optimal".
 
 Digital SaaS companies make this every single day.
+
+Stage: idea, 2 showcases
+
 ## Comparison
 
 |                      | SaaS                                                                                                                                      | 0x0                                                                               |
@@ -60,3 +63,10 @@ Yes, but we're thinking towards a federated solution w/o a central server.
 | Inheritance   | No   | Fork           |
 | Incapsulation | API  | Protocol       |
 | Polymorphism  | ?    | Standards, RFC |
+
+## Things to learn/inspire from
+
+- [Matrix](https://matrix.org/): bridges between messaging platforms
+- [ActivityPub](https://www.w3.org/TR/activitypub/): protocol-first 
+- [Secure Scuttlebutt (SSB)](https://scuttlebutt.nz/docs/principles/): offline-friendly secure gossip protocol
+- [Fedeverse](https://fediverse.party/): federation approach
