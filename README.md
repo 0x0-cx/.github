@@ -25,7 +25,7 @@ Stage: idea, 2 showcases
 ## Onboarding
 
 - install with a single command (on-premise too!)
-- transfer your data
+- transfer your data (import archives exported thanks to gdpr)
 - get updates guidelines and support
 
 ## Standings
