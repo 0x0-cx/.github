@@ -64,6 +64,12 @@ Yes, but we're thinking towards a federated solution w/o a central server.
 | Incapsulation | API  | Protocol       |
 | Polymorphism  | ?    | Standards, RFC |
 
+## Lifehacks
+
+- selfhosted opensource groupware doesn't have to scale to millions requsts-per-second, it just needs to work
+- under big timepressure you don't strictly need to follow some api, you can manipulate the database directly:
+  this can ease introducing various integrations (no need to wait properly upstream-approved api extension)
+  ofc, as any boundary violation this has its drawbacks, however with a 3rd-party SaaS you **NEVER** can do that
 ## Things to learn/inspire from
 
 - [Matrix](https://matrix.org/): bridges between messaging platforms
