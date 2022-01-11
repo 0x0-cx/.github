@@ -33,17 +33,20 @@ Stage: idea, 2 showcases
 |                        | SaaS                      | OSS             | Export features                                                                                                |
 |------------------------|---------------------------|-----------------|----------------------------------------------------------------------------------------------------------------|
 | Code                   | GitHub                    | GitLab          | code-only clone, no export PR, stars, community                                                                |
-| Kanban                 | Trello                    | Wekan           | copy-paste, no export images/attachments                                                                       |
+| Kanban board           | Trello                    | Wekan           | copy-paste, no export images/attachments                                                                       |
 | Chat                   | Slack                     | Mattermost      | export not welcome                                                                                             |
 | Voice/Video chat       | Gmeet, Zoom               | Jitsi Meet      | nothing to export? no recordings?                                                                              |
 | Shared storage         | Gdrive, Dropbox, box.com, | Syncthing       | export is essential feature                                                                                    |
+| UI Prototyping         | Figma                     | Penpot          | TODO
+| Helpdesk               | Zendesk                   | Helpy           | TODO
 | Enterprise Integration | Slack apps, OAuth         | ?               | incoming webhooks, custom (mostly chat bots); allow leave markdown-based message; LDAP/SAML mostly enterprise; |
 | Personal integration   | IFTTT, Zappier            | Huginn          | TODO                                                                                                           |
 | Office "bundle"        | Gsuite, Office365         | Onlyoffice      | export not welcome                                                                                             |
 | Text collab            | Gdocs                     | Etherpad(-lite) | txt, docx; no export history, acl                                                                              |
 | Spreadsheets           | Gsheets                   | Luckysheet      | csv, xlsx; no export history, acl                                                                              |
 | Mail                   | Gmail, Outlook, Proton    | Mailinabox      | export not welcome                                                                                             |
-| Social media           | Twitter                   | Mastodon        | TODO                                                                                                           |
+| Social media           | Twitter                   | Mastodon        | TODO
+|
 ## If my team won't like it, can I migrate back to GitHub/Trello/Slack?
 
 Yes, we are _aginst any vendor-lock_ (if target-saas is welcoming digital nomads)
