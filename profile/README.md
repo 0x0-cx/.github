@@ -10,8 +10,6 @@ Or AirBnB decides that a stranger will live in the place you're renting, because
 
 Digital SaaS companies make this every single day.
 
-Stage: idea, 2 showcases
-
 ## Comparison
 
 |                      | SaaS                                                                                                                                      | 0x0                                                                               |
